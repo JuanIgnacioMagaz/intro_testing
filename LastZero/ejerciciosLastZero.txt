@@ -1,0 +1,17 @@
+1) El fallo se encuentra en la linea del primer return(el que devuelve el indice del array),
+ya que devuelve el primer 0 que encuentra sin comprobar el resto del array.
+
+2) El test 2.
+
+3) El test 1.
+
+4) El test 3.
+
+5) El valor de la variable i en
+if (x[i] == 0)
+{
+	return i;
+}
+es devuelto en cuanto se encuentra un 0, por lo que la sentencia del if no evalua todo el array.
+
+6) En LastZeroFixed.java, en LastZeroTestFixed.java y en AllTestsFixed.java

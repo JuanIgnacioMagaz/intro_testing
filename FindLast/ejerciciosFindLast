@@ -1,0 +1,13 @@
+1) El bucle for no llega a iterar hasta la primera posición del array, debido a
+que la segunda condición es > 0 y no >= 0.
+
+2) No es posible, ya que siempre se ejecuta la sentencia del for.
+
+3) Los tests 1, 2 y 3.
+
+4) EL test 4.
+
+5) El valor de la variable i nunca llega a valer 0, por lo que si el valor que se
+busca(variable y) está en la primera posición del array(variable x) no lo encontrará. 
+
+6) En FindLastFixed.java, FindLastTestFixed.java y AllTestsFixed.java

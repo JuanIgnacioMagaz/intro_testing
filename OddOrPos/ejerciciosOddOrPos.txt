@@ -1,0 +1,13 @@
+1) Con x[i]%2 == 1 los números impares negativos no son considerados, es necesario
+poner x[i]%2 != 0.
+
+2) Siempre se ejecuta ese código.
+
+3) Los tests 2 y 4.
+
+4) El test 1.
+
+5) En este caso el fallo no está en una variable, si no en el resultado esperado
+de realizar la operación división entera(%) con números negativos.
+
+6) En OddOrPosFixed.java, OddOrPosTestFixed.java y AllTestsFixed.java
