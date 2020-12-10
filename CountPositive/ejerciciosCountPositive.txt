@@ -1,0 +1,4 @@
+1) En este caso el posible fallo sería considerar o no el 0 como numero positivo.
+En el caso de la función dada se considera positivo, por lo que no veo fallo.
+
+Por lo que con los test hechos se puede ver que todo funciona correctamente.
